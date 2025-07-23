@@ -74,7 +74,7 @@ Contains:
 
 ### `Simulink Model/`
 Contains:
-- Full aircraft model (`6DOF_Aircraft.slx`)
+- Full aircraft model (`EOM_6DOF.slx`)
 - Subsystems for forces, moments, and dynamics
 - Control surface input logic
 - Sensor and actuator modeling
